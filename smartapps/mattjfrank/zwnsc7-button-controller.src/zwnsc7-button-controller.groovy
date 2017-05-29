@@ -9,7 +9,7 @@
  *
  */
 definition(
-    name: "ZWN-SC7	 Button Controller",
+    name: "ZWN-SC7 Button Controller",
     namespace: "mattjfrank",
     author: "Matt Frank, using code from Brian Dahlem",
     description: "ZWN-SC7	 7-Button	 Scene	 Controller	Button Assignment App",
